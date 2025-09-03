@@ -3,7 +3,7 @@
  * Plugin Name: WP Travel Map
  * Plugin URI: https://anotherdayu.com/wp-travel-map
  * Description: 极简风格的旅行地图插件，记录你去过的地方
- * Version: 1.0.3
+ * Version: 1.0.4
  * Author: Dayu
  * Author URI: https://anotherdayu.com/
  * License: GPL v2 or later
